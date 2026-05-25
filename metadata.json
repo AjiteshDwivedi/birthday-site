@@ -1,0 +1,6 @@
+{
+  "name": "Ridham's 17th Birthday",
+  "description": "A wholesome, interactive friendship birthday website for Ridham (Kalu) filled with Roblox chaos and cozy late-night Discord lore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
