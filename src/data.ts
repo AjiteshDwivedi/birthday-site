@@ -12,7 +12,7 @@ import vid3 from "./assets/Videos/VID_20260505_005604.mp4";
 
 export const FRIENDS_NAME = "Ridham";
 export const FRIENDS_NICKNAME = "Kalu";
-export const FRIENDS_AGE = 17;
+export const FRIENDS_AGE = 16;
 
 // SPOTIFY PLAYLIST: Easily customisable from this single value
 // Default is a peaceful lofi chill playlist
