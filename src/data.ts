@@ -228,10 +228,9 @@ export const ROBLOX_VIDEOS: RobloxVideo[] = [
 // REAL-TIME INSIDE JOKES & MILESTONES
 // ==========================================
 export const INSIDE_JOKES_CHECKLIST: InsideJokeChecklist[] = [
-  { id: "joke-1", text: "Agreed that pineapple on pizza is a war crime but Adopt Me pizzas are pre-approved", context: "Adopt Me Chef Guild", unlocked: true },
-  { id: "joke-2", text: "Successfully stayed awake till sunrise without a single real-life conversation", context: "Late Night Discord Crew", unlocked: true },
-  { id: "joke-3", text: "Cried from laughing so hard at a completely pixelated Roblox dancing cat", context: "Roblox Memes", unlocked: true },
-  { id: "joke-4", text: "Used the phrase 'no u' or 'ratio' in a critical high-stakes spelling debate", context: "Discord Arena", unlocked: true },
-  { id: "joke-5", text: "Survived Kalu's 3-hour theoretical timeline of our Roblox Adopt Me wealth accumulation", context: "Yapping session #452", unlocked: true },
-  { id: "joke-6", text: "Actually turning 17 and remaining the coolest menace in the server!", context: "The Final Boss Arc", unlocked: false }
+  { id: "joke-1", text: "We met eacch other on roblox in the month of January", context: "First Meeting", unlocked: true },
+  { id: "joke-2", text: "Successfully stayed awake till sunrise without a single real-life conversation", context: "Late Night Roblox", unlocked: true },
+  { id: "joke-3", text: "Played roblox even during our finals", context: "Say No To Padhaii", unlocked: true },
+  { id: "joke-4", text: "Used the phrase 'kalu' or 'HATT' to tease each other when we had nothing to do", context: "Discord Teasing", unlocked: true },
+  { id: "joke-5", text: "You actually turning 17 and remaining the coolest person in my life", context: "The Final Boss Arc", unlocked: false }
 ];
