@@ -108,36 +108,36 @@ export const MEMORY_CARDS: MemoryCard[] = [
 export const SONG_RECOMMENDATIONS: SongRecommendation[] = [
   {
     id: "song-1",
-    title: "Space Song",
-    artist: "Beach House",
+    title: "Keep Following",
+    artist: "Odetari",
     vibe: "Cozy Late Night / Nostalgic",
     caption: "For when we are both staring at the Discord status 'Revra is typing...' for solid 20 minutes wondering what legendary text is coming.",
-    youtubeId: "RBClGZp4W44"
+    youtubeId: "JjqmumG-suk"
   },
   {
     id: "song-2",
-    title: "Are You Bored Yet?",
-    artist: "Wallows (feat. Clairo)",
+    title: "The Boy Is Mine",
+    artist: "Ariana Grande",
     vibe: "Pure Chill / Roblox Gaming Background Music",
     caption: "The perfect background theme when we Talking to people in Life Together at 1 AM.",
-    youtubeId: "wgn80u8B6No"
+    youtubeId: "ZqCWXdZFc58"
   },
   {
     id: "song-4",
-    title: "Coffee Alley",
-    artist: "Lofi Fruits Music",
+    title: "SexyBack",
+    artist: "Justin Timberlake",
     vibe: "Study/Yap Chill Beat",
     caption: "The ultimate beat for yapping: doing NEET prep work on screen 1, playing to Roblox with you on screen 2.",
-    youtubeId: "X_KOf0C-UqM"
+    youtubeId: "Cg6IDiTqIUs"
   },
   {
     id: "song-5",
-    title: "Fly Me to the Moon",
-    artist: "Lofi Cover",
+    title: "Attention",
+    artist: "Charlie Puth",
     vibe: "Late Night Space Lounge",
     caption: "A wholesome soundtrack to celebrate 17 full years of you existing and spreading absolute chaotic, unhinged internet friendship.",
-    youtubeId: "kOkQ4T5GHy8"
-  }
+    youtubeId: "Cg6IDiTqIUs"
+           }
 ];
 
 // ==========================================
@@ -217,7 +217,7 @@ export const ROBLOX_VIDEOS: RobloxVideo[] = [
     title: "US DANCING",
     duration: "0:30",
     vibe: "-1000 IQ gameplay",
-    description: "Sighhhh Finally The Fun Part Yayyyyyyyyyyy 😊😊",
+    description: "Sighhhh Finally The Fun Part 😊😊",
     videoUrl: vid3,
     previewThumbnail: "",
     views: "10 views"
