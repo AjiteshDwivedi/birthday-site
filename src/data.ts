@@ -19,9 +19,9 @@ export const FRIENDS_AGE = 17;
 export const SPOTIFY_PLAYLIST_URL = "https://open.spotify.com/embed/playlist/37i9dQZF1DX8UbtRl5gfvK";
 
 // Generated image imports/references
-export const ROBLOX_ILLUSTRATION = "/src/assets/images/roblox_concept_1779735511544.png";
-export const DISCORD_ILLUSTRATION = "/src/assets/images/discord_cozy_1779735529148.png";
-export const BIRTHDAY_CAKE_ILLUSTRATION = "/src/assets/images/dreamy_cake_1779735547302.png";
+export const ROBLOX_ILLUSTRATION = "../assets/images/roblox_concept_1779735511544.png";
+export const DISCORD_ILLUSTRATION = "../assets/images/discord_cozy_1779735529148.png";
+export const BIRTHDAY_CAKE_ILLUSTRATION = "../assets/images/dreamy_cake_1779735547302.png";
 
 // ==========================================
 // CARD DEFINITIONS
