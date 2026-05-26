@@ -16,7 +16,7 @@ export const FRIENDS_AGE = 17;
 
 // SPOTIFY PLAYLIST: Easily customisable from this single value
 // Default is a peaceful lofi chill playlist
-export const SPOTIFY_PLAYLIST_URL = "https://open.spotify.com/playlist/2SSHomk7rxVHKme5pk9dar?si=cd6ee4edf50e4e75";
+export const SPOTIFY_PLAYLIST_URL = "https://open.spotify.com/playlist/5VW3BIGp3psfD7aOpGWiOM?si=nArNZnKDRSijl5s65fh7Bg";
 
 // Generated image imports/references
 export const ROBLOX_ILLUSTRATION = "./assets/images/roblox_concept_1779735511544.png";
