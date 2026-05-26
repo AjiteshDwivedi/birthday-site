@@ -21,7 +21,8 @@ export const SPOTIFY_PLAYLIST_URL = "https://open.spotify.com/embed/playlist/37i
 // Generated image imports/references
 export const ROBLOX_ILLUSTRATION = "./assets/images/roblox_concept_1779735511544.png";
 export const DISCORD_ILLUSTRATION = "./assets/images/discord_cozy_1779735529148.png";
-export const BIRTHDAY_CAKE_ILLUSTRATION = "./assets/images/dreamy_cake_1779735547302.png";
+import birthdayCake from "./assets/images/dreamy_cake_1779735547302.png";
+export const BIRTHDAY_CAKE_ILLUSTRATION = birthdayCake;
 
 // ==========================================
 // CARD DEFINITIONS
