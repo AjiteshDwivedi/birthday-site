@@ -1,11 +1,11 @@
 import { MemoryCard, SongRecommendation, CursedScreenshot, RobloxVideo, InsideJokeChecklist } from './types';
-import memFace from "../assets/images/YourBeautifulFace.webp";
-import memBracelet from "../assets/images/mem_bracelet_photo_1779738915021.webp";
-import memToy from "../assets/images/mem_toy_photo_1779738934012.webp";
-import memFlower from "../assets/images/mem_flower_photo_1779738952463.webp";
-import vid1 from "../assets/Videos/VID_20260505_000513.mp4";
-import vid2 from "../assets/Videos/VID_20260505_000612.mp4";
-import vid3 from "../assets/Videos/VID_20260505_005604.mp4";
+import memFace from "./assets/images/YourBeautifulFace.webp";
+import memBracelet from "./assets/images/mem_bracelet_photo_1779738915021.webp";
+import memToy from "./assets/images/mem_toy_photo_1779738934012.webp";
+import memFlower from "./assets/images/mem_flower_photo_1779738952463.webp";
+import vid1 from "./assets/Videos/VID_20260505_000513.mp4";
+import vid2 from "./assets/Videos/VID_20260505_000612.mp4";
+import vid3 from "./assets/Videos/VID_20260505_005604.mp4";
 // ==========================================
 // CENTRAL CONFIGURATION
 // ==========================================
